@@ -9,7 +9,6 @@ function makeurl(text) {
 }
 
 function errorHandler(error) {
-  console.log("Error occured", error);
   alert("Unexpected error detected, Please try again after sometime");
 }
 
